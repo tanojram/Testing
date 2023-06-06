@@ -219,7 +219,7 @@ round(X.5, 1) nearest  even number
 f-string
 
 f string diffent  variable into string   simple put variable in {} 3.6  
-print  (f"{var}")
+print  (f"{var}") test 1
 
 
 
